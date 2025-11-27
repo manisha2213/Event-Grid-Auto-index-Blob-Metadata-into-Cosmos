@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=practicestorage9;AccountKey=B/CDWXUeNzUIzpt1nbgyeeWjVsX9M5b0dudDZ993MXEClFF/gTskeWTtvcqwcvgVsOZbUgO5Zs22+ASt9yh5mQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+
+    "COSMOS_ENDPOINT": "https://practicecosmos9.documents.azure.com:443/",
+    "COSMOS_KEY": "cMusWoi6iOkxCjHuc2nBDlIe0tY28oaTJirjbwBvcQERwlE4IUg34HIpkRqb3ClnGgYjiO8w7JPXACDbmImL4A==",
+    "COSMOS_DB": "ProductsDb",
+    "COSMOS_CONTAINER": "Products",
+
+    "SQL_CONNECTION_STRING": "Driver={ODBC Driver 18 for SQL Server};Server=tcp:practice4.database.windows.net,1433;Database=practicedb9;Uid=bhanu;Pwd={Goat@1525};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;",
+
+    "BATCH_SIZE": "200",
+    "COSMOS_PAGE_SIZE": "100"
+  }
+}
