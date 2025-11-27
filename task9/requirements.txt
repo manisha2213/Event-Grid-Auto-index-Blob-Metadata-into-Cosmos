@@ -1,0 +1,4 @@
+azure-functions
+azure-cosmos>=4.2.0
+pyodbc
+tenacity
